@@ -1,0 +1,5 @@
+{
+  "name": "RAG-Cache-Vault",
+  "description": "A premium AI code assistant with built-in RAG pipeline and LRU caching observability dashboard.",
+  "requestFramePermissions": []
+}
